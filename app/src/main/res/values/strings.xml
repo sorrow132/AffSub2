@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AffSub2</string>
+    <string name="call_phone">Call Phone</string>
+    <string name="email">Email</string>
+    <string name="skype">Skype</string>
+    <string name="refresh_list">Refresh list</string>
+</resources>
